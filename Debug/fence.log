@@ -1,0 +1,3 @@
+﻿  block.cpp
+F:\OneDrive\Programming\C++\fence\fence\block.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+  fence.vcxproj -> F:\OneDrive\Programming\C++\fence\fence\Debug\fence.exe
